@@ -1,6 +1,6 @@
 # Freearo
 
-It's an extension for chrome(windows) to open some paid posts/articles on sites like medium.
+It's an extension for chrome(windows) to read some paid posts/articles on sites like medium.
 Well,it's not much but....it's pretty convenient.
 
 # Installation
